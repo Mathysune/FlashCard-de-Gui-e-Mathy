@@ -33,3 +33,19 @@ criaCartao(
     'Como Itadori conquistou seu poder?',
     'Ele conquistou suas habilidades quando consumiu as Pinturas da Morte número 4 a 9.'
 )
+criaCartao(
+    'Pokémon',
+    'Qual o nome do Pokémon Deus?',
+    'O nome do Pokémon Deus é Arceus'
+)
+criaCartao(
+    'Boruto',
+    'Qual a peculiaridade do Metal Lee',
+    'Metal Lee não consegue lutar na frente de pessoas, por vergonha.'
+)
+criaCartao(
+    'Death Note',
+    'Qual o nome real do L?',
+    'O nome real do L é Lawliet.'
+)
+
